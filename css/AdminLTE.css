@@ -64,7 +64,7 @@ body {
 	margin-left: 0
 }
 #apply1{
-display:none;	
+display:none;
 }
 }
 
@@ -76,10 +76,10 @@ display:none;
 	transform: translate(230px, 0)
 }
 #apply{
-display:none;	
+display:none;
 }
 #img1{
-display:none;	
+display:none;
 }
 }
 .content-wrapper, .right-side {
@@ -454,7 +454,7 @@ color:#ccc
 .sidebar-menu {
 	list-style: none;
 	margin: 0;
-	padding: 0; margin-top:10px; 
+	padding: 0; margin-top:10px;
 }
 .sidebar-menu>li {
 	position: relative;
@@ -494,11 +494,11 @@ color:#ccc
 	-ms-transform: rotate(-90deg);
 	-o-transform: rotate(-90deg);
 	transform: rotate(-90deg);
-	
+
 }
 .sidebar-menu li.active>.treeview-menu {
-	display: block; 
-	
+	display: block;
+
 }
 .sidebar-menu .treeview-menu {
 	display: none;
@@ -763,7 +763,7 @@ color:#ccc
 	color: #fff
 }
 .control-sidebar-dark .control-sidebar-menu>li>a:hover {
-	background: #1e282c; 
+	background: #1e282c;
 }
 .control-sidebar-dark .control-sidebar-menu>li>a .menu-info>p {
 	color: #b8c7ce
@@ -1327,7 +1327,7 @@ opacity:1
 .small-box:hover .icon {
 	font-size: 95px
 }
-.btn-arw{ padding:5px 2px; margin-top:-2px; background:url(../img/arw-wht.png) no-repeat; width:24px; height:24px;}
+.btn-arw{ padding:5px 2px; margin-top:-2px; background:url(..res/img/arw-wht.png) no-repeat; width:24px; height:24px;}
 
 @media (max-width:767px) {
 .small-box {
@@ -3597,7 +3597,7 @@ table.text-center, table.text-center td, table.text-center th {
 	background-color: #f39c12 !important
 }
 .bg-aqua, .callout.callout-info, .alert-info, .label-info, .modal-info .modal-body {
-	background-color: #00c0ef !important; padding:0px; border:1px solid #666; 
+	background-color: #00c0ef !important; padding:0px; border:1px solid #666;
 }
 .bg-blue {
 	background-color: #0073b7 !important
@@ -4079,16 +4079,16 @@ ul li.offer_box p{ color:#000;}
 .offer_box{ padding:0px 5px; margin:0;}
 .offer_box h3{ margin:0; border-bottom:1px solid #9A9A9A; }
   .offer_box h3:last-child{border-bottom:none;}
-.offer-head2{font:bold 16px/20px "Tahoma"; color:#f60; /*background:url(../img/right2.png) no-repeat 0 0;*/  padding:2px 0px 5px 10px;} 
- ul.offer_box2{ padding:0px 10px 0 0; margin:0px; list-style-type:none;} 
-  ul.offer_box2 li{ padding:0px 0 0 30px; margin:0px;/* background:url(../img/right2.png) no-repeat 0 0;*/ 
+.offer-head2{font:bold 16px/20px "Tahoma"; color:#f60; /*background:url(../img/right2.png) no-repeat 0 0;*/  padding:2px 0px 5px 10px;}
+ ul.offer_box2{ padding:0px 10px 0 0; margin:0px; list-style-type:none;}
+  ul.offer_box2 li{ padding:0px 0 0 30px; margin:0px;/* background:url(../img/right2.png) no-repeat 0 0;*/
   font:normal 14px/18px "Candal"; color:#f00;}
-  ul.offer_box2 li a{ color:#fff; text-decoration:none !important; font:bold 14px/32px "Open Sans";} 
+  ul.offer_box2 li a{ color:#fff; text-decoration:none !important; font:bold 14px/32px "Open Sans";}
 ul.offer_box2 li p{ color:#FF0; font:normal 16px/20px "Candal"; text-align:left;}
 
 /*.offer_box2 ul{ padding-top:20px;}*/
 .offer_box2 ul{ }
-.offer_box2 ul li{ padding:2px 0px 5px 10px; margin:3px 0px; /*background:url(../img/right2.png) no-repeat 0 0;*/ 
+.offer_box2 ul li{ padding:2px 0px 5px 10px; margin:3px 0px; /*background:url(../img/right2.png) no-repeat 0 0;*/
   font:bold 18px/24px "Candal"; color:#f00; border-bottom:1px solid #fff;}
 .offer_box2 ul li:last-child{border-bottom:none !important;}
   .offer_box2 ul li a{ color:#fff; text-decoration:none;}
@@ -4103,7 +4103,7 @@ ul.offer_box2 li p{ color:#FF0; font:normal 16px/20px "Candal"; text-align:left;
 	box-shadow: 0 5px 5px rgba(0,0,0,0.1);
 	min-height:200px; background-color:#f00;
 	border-bottom-right-radius:3em;
-	border-bottom-left-radius:3em; 
+	border-bottom-left-radius:3em;
 }
 
 .small-box-offer p{ color:#fff; font:bold 18px/24px "Lato"; text-align:center; }
@@ -4123,15 +4123,15 @@ ul.offer_box2 li p{ color:#FF0; font:normal 16px/20px "Candal"; text-align:left;
 .head_wh_lg{font-size:34px; font-weight:bold; line-height:38px; color:#fff; font-family: 'Oswald', sans-serif; border-bottom:2px solid #fff; padding:0 0 6px 0;}
 .head_ylw_lg{font-size:45px; font-weight:bold; line-height:44px; color:#ff0; font-family: 'Roboto Condensed', sans-serif; text-align:center;}
 
-.welcome-head{ /*font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;*/  
+.welcome-head{ /*font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;*/
 	/*font-family: 'Marck Script', cursive;*/  font-family: 'Oswald', cursive; font-size:27px; line-height:34px; background-color:#ffa104; border-bottom:2px solid #222d32; color:#fff; text-shadow:1px 2px 2px #2f393d; /*height:60px;*/ padding:10px 3px; margin:0; text-align:center; }
 .welcome-head img{ width:90%;}
 
 .offer-head{ font-family: 'Kaushan Script', cursive; font-size:30px; background-color:#f00; border-bottom:2px solid #222d32; color:#fff; text-shadow:1px 2px 2px #2f393d; /*height:60px;*/ padding:10px 5px; margin:0; text-align:center; border-radius:4px;
 border-bottom-right-radius:0;
 border-bottom-left-radius: 0;  }
-	
-	
+
+
 @media (max-width:767px) {
 .small-box2 .imgRow{ text-align:center;}
 .small-box2 .imgRow img{ width:80%}
@@ -4148,7 +4148,7 @@ border-bottom-left-radius: 0;  }
 }
 
 @media only screen and (min-width:767px) {
-#grade{width:90%;}	
+#grade{width:90%;}
 .gradelogo{transform: translate(-50%, -50%);position: absolute;top:100px;left:45%;text-align:center;}
 #gradelogo{width:300px;}
 .bottom-left{transform: translate(-50%, -50%);left:61%;position: absolute;top:270px;width:100%;}
@@ -4163,9 +4163,9 @@ border-bottom-left-radius: 0;  }
 .labelid{position: absolute; top: 287px;left:630px; width: 100%;font-size:18px;}
 .gradeid{position: absolute; top: 287px;left:730px; width: 100%;font-size:18px;}
 .tablegrade{transform: translate(-50%, -50%);position: absolute;top:48%;left: 52%;width: 90%;}
-.table-bordered>tbody>tr>td	
+.table-bordered>tbody>tr>td
 	{
-	font-size:16px;	
+	font-size:16px;
 	}
 .table-bordered>tbody>tr>th
 	{
@@ -4201,9 +4201,9 @@ border-bottom-left-radius: 0;  }
 .labelid{position: absolute; top: 164px;left:60%; width: 100%;font-size:10px;}
 .gradeid{position: absolute; top: 164px;left:80%; width: 100%;font-size:10px;}
 .tablegrade{position: absolute;top:41%;left: 10%;width: 94%;}
-.table-bordered>tbody>tr>td	
+.table-bordered>tbody>tr>td
 	{
-	font-size:2vw;	
+	font-size:2vw;
 	}
 .table-bordered>tbody>tr>th
 	{
