@@ -952,7 +952,7 @@ color:#ccc
 	border-bottom-left-radius: 4px
 }
 .navbar-nav>.user-menu>.dropdown-menu>li.user-header {
-	height: 175px;
+	height: 100px;
 	padding: 10px;
 	text-align: center
 }
@@ -968,8 +968,8 @@ color:#ccc
 	z-index: 5;
 	color: #fff;
 	color: rgba(255,255,255,0.8);
-	font-size: 17px;
-	margin-top: 10px
+	font-size: 23px;
+	margin-top: 25px
 }
 .navbar-nav>.user-menu>.dropdown-menu>li.user-header>p>small {
 	display: block;
